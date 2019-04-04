@@ -15,6 +15,7 @@ limitations under the License.
 
 #include "tensorflow/lite/delegates/gpu/gl/kernels/elementwise.h"
 
+#include <iostream>
 #include <string>
 
 #include "absl/memory/memory.h"
